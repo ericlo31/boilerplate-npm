@@ -7,12 +7,17 @@
 		"start": "node server.js"
 	},
 	"dependencies": {
-		"@freecodecamp/example": "1.1.0",
+		"@freecodecamp/example": "^1.1.0",
 		"express": "^4.14.0"
 	},
 	"author": "Eric Lorenzo",
 	"license": "ISC",
-	"keywords": ["freecodecamp", "is", "the", "best"],
+	"keywords": [
+		"freecodecamp",
+		"is",
+		"the",
+		"best"
+	],
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/freeCodeCamp/boilerplate-npm.git"
