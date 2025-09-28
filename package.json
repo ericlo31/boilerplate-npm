@@ -11,7 +11,7 @@
 	},
 	"author": "Eric Lorenzo",
 	"license": "ISC",
-	"keywords": [],
+	"keywords": ["freecodecamp", "is", "the", "best"],
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/freeCodeCamp/boilerplate-npm.git"
