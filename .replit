@@ -1,1 +1,15 @@
 modules = ["nodejs-20"]
+
+[[ports]]
+localPort = 3000
+externalPort = 80
+
+[[ports]]
+localPort = 5000
+externalPort = 5000
+
+[agent]
+expertMode = true
+
+[nix]
+packages = ["openssh"]
